@@ -1,8 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "gregkos/pppe-api-skeleton",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
+    "description": "A Laravel skeleton using a Pint-Phpstan-Pest workflow to help you get started on your next API project.",
+    "keywords": ["laravel", "framework", "template", "skeleton", "api", "pest", "tests", "static analysis"],
     "license": "MIT",
     "require": {
         "php": "^8.2",
